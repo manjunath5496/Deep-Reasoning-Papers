@@ -127,6 +127,26 @@ with Fast Modular Meta-learning</a></li>
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Reasoning-Papers/blob/master/dep(66).pdf" style="text-decoration:none;">Measuring abstract reasoning in neural networks</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Reasoning-Papers/blob/master/dep(67).pdf" style="text-decoration:none;">RAVEN: A Dataset for Relational and Analogical Visual rEasoNing</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Reasoning-Papers/blob/master/dep(67).pdf" style="text-decoration:none;">RAVEN: A Dataset for Relational and Analogical Visual rEasoNing</a></li>    
+   
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Reasoning-Papers/blob/master/dep(68).pdf" style="text-decoration:none;">Integrating Learning and Reasoning with Deep Logic Models</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Reasoning-Papers/blob/master/dep(69).pdf" style="text-decoration:none;">Deep Reasoning Networks:
+Thinking Fast and Slow </a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Reasoning-Papers/blob/master/dep(70).pdf" style="text-decoration:none;">Reasoning with Deep Learning:
+an Open Challenge</a></li> 
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Deep-Reasoning-Papers/blob/master/dep(71).pdf" style="text-decoration:none;">A simple neural network module
+for relational reasoning</a></li>    
+   
+    
+   
+   
+   
+   
+   
+   
 
   </ul>
